@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Torben. I'm an experienced educator, software developer and game developer. I enjoy designing and building software and games for education, for productivity, and also just for fun.
+
+### Skills
+
+- Unity
+- C#
+- C++
+- Python
+- Java
+- Unreal Engine 4
+
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/torben-w-bernhard-a8a137104/)
+
 <!--
 **torbenwb/torbenwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
