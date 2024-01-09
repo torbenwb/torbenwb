@@ -1,6 +1,6 @@
 # Game Development 1: Unit 1 Project
 
-<div display=flex flexDirection=row> 
+<div display=flex flexDirection=row flexGrow=1 justifyContent=center> 
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/u1-1-1.gif" width=320 height=240/>
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/u1-1-1.gif" width=320 height=240/>
 </div>
