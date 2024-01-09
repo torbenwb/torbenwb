@@ -1,6 +1,6 @@
 # Game Development 1: Unit 1 Project
 
-![Car Game Demo](https://github.com/torbenwb/torbenwb/blob/main/assets/u1-1-1.gif)
+<img src="https://github.com/torbenwb/torbenwb/blob/main/assets/u1-1-1.gif" width=320 height=240/>
 
 An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
