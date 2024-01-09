@@ -1,30 +1,8 @@
-<table>
-  <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-  </tr>
-  <tr>
-    <td>
+# Game Development 1: Unit 1 Project
 
-      ```cs
-      public void WhatDoesThisDo()
-      {
-        Console.Log("Nothing");
-      }
-      ```
+An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
-      
-    </td>
-    <td>
+* Designed and implemented graphics: low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
+* Designed an intuitive user interface capable of seamlessly handling input from mouse, keyboard, and gamepad devices.
+* Successfully game-tested the product for usability and reliability, with implementation in 800+ classrooms nationwide.
 
-      ```cs
-      public void WhatDoesThisDo()
-      {
-        Console.Log("Nothing");
-      }
-      ```
-
-      
-    </td>
-  </tr>
-</table>
