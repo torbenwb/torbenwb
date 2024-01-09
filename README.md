@@ -5,6 +5,8 @@
   <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-1/u1-2.gif" width=320 height=240/>
 </div>
 
+[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-1-webgl-build/)
+
 An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
 * Designed and implemented graphics: low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
