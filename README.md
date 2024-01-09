@@ -14,6 +14,7 @@ Each project was:
 </div>
 
 [Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-1-webgl-build/)
+[Repository](https://github.com/torbenwb/mc-gd1-unit-1)
 
 An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
@@ -28,6 +29,7 @@ An educational project used by students in Mastery Coding's Game Development 1 c
 </div>
 
 [Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-4-webgl-build/)
+[Repository](https://github.com/torbenwb/mc-gd1-unit-4)
 
 This project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
 
