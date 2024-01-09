@@ -12,10 +12,9 @@
         Console.Log("Nothing");
       }
       ```
+
       
     </td>
-  </tr>
-  <tr>
     <td>
 
       ```cs
@@ -24,6 +23,7 @@
         Console.Log("Nothing");
       }
       ```
+
       
     </td>
   </tr>
