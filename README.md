@@ -38,7 +38,7 @@ This project is an educational project used by students in Mastery Coding’s Ga
 * Developed and implemented graphics, including low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
 * Wrote gameplay and game state management scripts.
 
-## Unit 5 Project - Mojave Runner
+## Unit 5 Project: Mojave Runner
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-5/blob/main/readme-assets/u5-1.gif" width=320 height=240/>
