@@ -50,9 +50,3 @@ The *Mojave Runner* project teaches students how to build a 2D sidescrolling pla
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-5)
 
-## Topics 
-
-* Unity 2D rendering system
-* Unity 2D physics system
-* Unity C# Scripting API
-
