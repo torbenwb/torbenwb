@@ -46,6 +46,10 @@ This project is an educational project used by students in Mastery Coding’s Ga
 
 The *Mojave Runner* project teaches students how to build a 2D sidescrolling platformer using Unity's 2D sprite rendering system, the 2D physics system, and the Unity C# Scripting API.
 
+[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-5-webgl-build/)
+
+[Repository](https://github.com/torbenwb/mc-gd1-unit-5)
+
 ## Topics 
 
 * Unity 2D rendering system
