@@ -50,3 +50,17 @@ The *Mojave Runner* project teaches students how to build a 2D sidescrolling pla
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-5)
 
+## Unit 6 Project: Alchemy Lab
+
+
+<div display=flex flexDirection=row justifyContent=center> 
+  <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-1.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-2.gif" width=320 height=240/>
+</div>
+
+
+The *Alchemy Lab* project teaches students how to build a first-person interactive adventure / escape room. In this project students use the Unity C# Scripting API to build a first-person movement and camera system as well as an even-driven system for interactions and objectives.
+
+* Implemented first-person camera and movement control using Unity C# Scripting API.
+* Implemented event-driven architecture to handle player interactions and objectives.
+
