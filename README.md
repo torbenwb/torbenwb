@@ -17,7 +17,7 @@ Each project was:
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-1)
 
-An educational project used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
+The *Car Game* project is used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
 
 * Designed and implemented graphics: low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
 * Designed an intuitive user interface capable of seamlessly handling input from mouse, keyboard, and gamepad devices.
@@ -33,7 +33,7 @@ An educational project used by students in Mastery Coding's Game Development 1 c
 
 [Repository](https://github.com/torbenwb/mc-gd1-unit-4)
 
-This project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
+The *Castle Attack* project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
 
 * Developed and implemented graphics, including low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
 * Wrote gameplay and game state management scripts.
@@ -74,7 +74,7 @@ The *Alchemy Lab* project teaches students how to build a first-person interacti
   <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
 </div>
 
-This *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
+The *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
 
 * Implemented a scalable enemy customization system using Unity's Scriptable Objects
 * Responsible for graphics and visual design including post-processing, 3D modeling and animation.
