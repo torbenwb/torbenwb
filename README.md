@@ -67,3 +67,16 @@ The *Alchemy Lab* project teaches students how to build a first-person interacti
 * Implemented first-person camera and movement control using Unity C# Scripting API.
 * Implemented event-driven architecture to handle player interactions and objectives.
 
+# Unit 7 Project: Tower Defense
+
+<div display=flex flexDirection=row justifyContent=center> 
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
+</div>
+
+This *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
+
+* Implemented a scalable enemy customization system using Unity's Scriptable Objects
+* Responsible for graphics and visual design including post-processing, 3D modeling and animation.
+* Designed and implemented responsive and intuitive UI.
+
