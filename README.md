@@ -1,82 +1,46 @@
-# MC Game Development 1 Course Projects
+# About Me
 
-A selection of the Unity game development projects I have worked on for Mastery Coding's Game Development pathway.
+Software Developer and Computer Science Educator with experience in Full-Stack Web Development, Game Development and Educational Product Engineering and Design. Passionate about Procedural Generation, Graphics Programming and AI.
 
-Each project was:
-* Designed to be intuitive to first-time Unity users / students.
-* Tested for usability and reliability with implementation in 800+ classrooms nationwide.
+## Masters of Science - Computer Science: Seattle University
+March 2023 - June 2024
 
-## Unit 1 Project: Car Game
+## Senior Curriculum Developer - Mastery Coding
+October 2021 - Present
 
-<div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-1/u1-1.gif" width=320 height=240/>
-  <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-1/u1-2.gif" width=320 height=240/>
-</div>
+## Freelance / Independent Game / Software Developer
+January 2018 - Present
 
-[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-1-webgl-build/)
+# My Work / Projects
 
-[Repository](https://github.com/torbenwb/mc-gd1-unit-1)
+A selection of some of the projects I've worked on including:
+- Academic Projects
+- Work Projects
+- Personal Projects
 
-The *Car Game* project is used by students in Mastery Coding's Game Development 1 course. This project is structured and designed to be intuitive to students and first-time users of Unity.
-
-* Designed and implemented graphics: low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
-* Designed an intuitive user interface capable of seamlessly handling input from mouse, keyboard, and gamepad devices.
-
-## Unit 4 Project: Castle Attack
-
-<div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-4/u4-1.gif" width=320 height=240/>
-  <img src="https://github.com/torbenwb/torbenwb/blob/main/assets/gd1-unit-4/u4-2.gif" width=320 height=240/>
-</div>
-
-[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-4-webgl-build/)
-
-[Repository](https://github.com/torbenwb/mc-gd1-unit-4)
-
-The *Castle Attack* project is an educational project used by students in Mastery Coding’s Game Development 1 course. The project structure is designed to be intuitive to students new to Unity. This project introduces students to the Unity scripting API, the MonoBehaviour lifecycle, and the Unity physics system.
-
-* Developed and implemented graphics, including low-poly aesthetics, 3D modeling, post-processing effects, and particle systems.
-* Wrote gameplay and game state management scripts.
-
-## Unit 5 Project: Mojave Runner
-
-<div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/mc-gd1-unit-5/blob/main/readme-assets/u5-1.gif" width=320 height=240/>
-</div>
-
-The *Mojave Runner* project teaches students how to build a 2D sidescrolling platformer using Unity's 2D sprite rendering system, the 2D physics system, and the Unity C# Scripting API.
-
-[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-5-webgl-build/)
-
-[Repository](https://github.com/torbenwb/mc-gd1-unit-5)
-
-## Unit 6 Project: Alchemy Lab
-
-
-<div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-1.gif" width=320 height=240/>
-  <img src="https://github.com/torbenwb/mc-gd1-unit-6/blob/main/readme-assets/u6-2.gif" width=320 height=240/>
-</div>
-
-[Playable WebGL Demo](https://torbenwb.github.io/mc-gd1-unit-6-webgl-build/)
-
-[Repository](https://github.com/torbenwb/mc-gd1-unit-6)
-
-The *Alchemy Lab* project teaches students how to build a first-person interactive adventure / escape room. In this project students use the Unity C# Scripting API to build a first-person movement and camera system as well as an even-driven system for interactions and objectives.
-
-* Implemented first-person camera and movement control using Unity C# Scripting API.
-* Implemented event-driven architecture to handle player interactions and objectives.
-
-# Unit 7 Project: Tower Defense
+## Tower Defense Template / Prototype
 
 <div display=flex flexDirection=row justifyContent=center> 
   <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
   <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
 </div>
 
-The *Tower Defense* project teaches students how to build a top-down tower defense game while introducing students to data structures.
+A tower defense template / prototype built in Unity as part of Mastery Coding's Game Development course pathway. Designed to teach students about Object-Oriented Programming and Data Structures.
 
-* Implemented a scalable enemy customization system using Unity's Scriptable Objects
-* Responsible for graphics and visual design including post-processing, 3D modeling and animation.
-* Designed and implemented responsive and intuitive UI.
+## Physics-Driven Arcade Racer
 
+<div display=flex flexDirection=row justifyContent=center> 
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u1-1.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u1-2.gif" width=320 height=240/>
+</div>
+
+A physics-driven arcade racing game built in Unity as part of Mastery Coding's Game Development course pathway. Designed to teach students about Unity's physics system, core gameplay code executes performant runtime physics calculations to simulate car's movement using suspension, friction, and drag.
+
+## Infinite Procedurally Generated Voxel World
+
+<div display=flex flexDirection=row justifyContent=center> 
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-1.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-2.gif" width=320 height=240/>
+</div>
+
+This project was designed to teach students how to programatically generate meshes at runtime to build a prototype version of Minecraft where the player can explore and endless procedurally generated world, placing, and removing different types of blocks.
