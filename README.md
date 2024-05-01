@@ -15,14 +15,14 @@ A selection of some of the projects I've worked on including:
 - Work Projects
 - Personal Projects
 
-## Tower Defense Template / Prototype
+## Infinite Procedurally Generated Voxel World
 
 <div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
-  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-1.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-2.gif" width=320 height=240/>
 </div>
 
-A tower defense template / prototype built in Unity as part of Mastery Coding's Game Development course pathway. Designed to teach students about Object-Oriented Programming and Data Structures.
+This project was designed to teach students how to programatically generate meshes at runtime to build a prototype version of Minecraft where the player can explore and endless procedurally generated world, placing, and removing different types of blocks.
 
 ## Physics-Driven Arcade Racer
 
@@ -33,11 +33,19 @@ A tower defense template / prototype built in Unity as part of Mastery Coding's 
 
 A physics-driven arcade racing game built in Unity as part of Mastery Coding's Game Development course pathway. Designed to teach students about Unity's physics system, core gameplay code executes performant runtime physics calculations to simulate car's movement using suspension, friction, and drag.
 
-## Infinite Procedurally Generated Voxel World
+## Tower Defense Template / Prototype
 
 <div display=flex flexDirection=row justifyContent=center> 
-  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-1.gif" width=320 height=240/>
-  <img src="https://github.com/torbenwb/mc-gd2/blob/main/visual-assets/u2-2.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-2.gif" width=320 height=240/>
+  <img src="https://github.com/torbenwb/mc-gd1-unit-7/blob/main/readme-assets/u7-3.gif" width=320 height=240/>
 </div>
 
-This project was designed to teach students how to programatically generate meshes at runtime to build a prototype version of Minecraft where the player can explore and endless procedurally generated world, placing, and removing different types of blocks.
+A tower defense template / prototype built in Unity as part of Mastery Coding's Game Development course pathway. Designed to teach students about Object-Oriented Programming and Data Structures.
+
+# Playable Web-GL Demos
+
+Below is a selection of playable / usable demos of some of the projects I've worked on.
+
+(Minecraft / Voxel World Prototype)[https://torbenwb.github.io/mc-gd2-unit-2-webgl-build/]
+
+
