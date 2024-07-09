@@ -4,7 +4,7 @@ Software Developer and Computer Science Educator with experience in Full-Stack W
 
 **Masters of Science - Computer Science: Seattle University** | March 2023 - June 2024
 
-**Senior Curriculum Developer - Mastery Coding** | October 2021 - Present
+**Lead Curriculum Developer - Mastery Coding** | October 2021 - Present
 
 **Freelance / Independent Game / Software Developer** | January 2018 - Present
 
